@@ -56,7 +56,7 @@ Git · GitHub · Jenkins · CircleCI · GitHub Actions · Octopus Deploy · Splu
 - 💬 Open to discussing software development, new ideas, AI integrations, and technical solutions
 
 
-## No idea is too big or too small to explore. 
+## No idea is too big or too small to explore 
 Have one? Let's talk.
 
 - 🌐 [ceciliaducos.com](https://ceciliaducos.com)
