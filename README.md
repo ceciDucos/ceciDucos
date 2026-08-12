@@ -2,10 +2,7 @@
 
 # Hi, I'm Cecilia 👋
 
-**Senior Angular Developer · AI-Assisted Developer**
-
-Montevideo, Uruguay 🇺🇾
-(GTM -3)
+**Senior Angular Developer · AI-Assisted Developer · 🇺🇾**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ceciliaducos.com-222222?style=flat&logo=googlechrome&logoColor=white)](https://ceciliaducos.com)
