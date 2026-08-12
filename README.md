@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cecilia Ducos 👋
+# Hi, I'm Cecilia 👋
 
 **Senior Angular Developer · AI-Assisted Developer**
 
