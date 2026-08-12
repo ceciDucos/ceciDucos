@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hi, I'm Cecilia 👋
+<h1> Hi, I'm Cecilia 👋 </h1>
 
 **Senior Angular Developer · AI-Assisted Developer · 🇺🇾**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ceciliaducos.com-222222?style=flat&logo=googlechrome&logoColor=white)](https://ceciliaducos.com)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ceciliaducos.com"><strong>ceciliaducos.com</strong></a>
+</p>
 
 </div>
 
